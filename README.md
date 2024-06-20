@@ -4,15 +4,9 @@
 
 This project, titled "Stock Prediction using Sentiment Analysis on Twitter using LSTM," aims to develop a predictive system that enhances the accuracy of stock market predictions. The system integrates traditional time series analysis and sentiment analysis from Twitter to predict stock prices. The project specifically focuses on Netflix (NFLX) stock and employs a combination of ARIMA and LSTM models to achieve its objectives.
 
-## Authors
+## Author
 
-- V Naveen Kumar (Roll No: 20N31A05N9)
 - Venishetty Sriram (Roll No: 20N31A05P2)
-- Gaddipati Rakesh (Roll No: 20N31A05Q0)
-
-## Guide
-
-- Mrs. T Padmaja, Assistant Professor, Department of CSE, Malla Reddy College of Engineering and Technology
 
 ## Table of Contents
 
