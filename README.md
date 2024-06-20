@@ -136,5 +136,3 @@ The project successfully integrates sentiment analysis with traditional and deep
 ## Bibliography
 
 References and research papers related to stock market prediction, sentiment analysis, and deep learning methodologies. 
-
-For detailed information, please refer to the [full project report](path/to/full/report.pdf).
